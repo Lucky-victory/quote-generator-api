@@ -25,10 +25,10 @@
     "express": "^4.17.3",
     "express-async-handler": "^1.2.0",
     "harpee": "^3.0.12",
+    "morgan": "^1.10.0",
     "http-errors": "^2.0.0"
   },
   "devDependencies": {
-    "morgan": "^1.10.0",
     "nodemon": "^2.0.15"
   }
 }
