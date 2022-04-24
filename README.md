@@ -1,5 +1,7 @@
 # quote-generator-api
-Quote generator API built with nodejs and harperdb
+Quote generator API built with nodejs and harperdb.
+
+**Live version [here](https://viblog-quote-api.herokuapp.com/quotes)**.
 ## How to use.
 Clone the repo
 
@@ -8,7 +10,9 @@ git clone https://github.com/Lucky-victory/quote-generator-api
 ```
 Move into the directory
 
-`cd quotes-generator-api`
+```
+cd quotes-generator-api
+```
 
 Copy the `.env.example` file to the `.env` file
 
