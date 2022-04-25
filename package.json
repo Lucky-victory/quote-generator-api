@@ -2,10 +2,10 @@
   "name": "quote-generator-api",
   "version": "1.0.0",
   "description": "quote generator API built with nodejs and harperdb",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "db:init": "node ./config/db.init.js"
   },
   "repository": {
