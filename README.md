@@ -1,7 +1,9 @@
 # quote-generator-api
 Quote generator API built with nodejs and harperdb.
 
-**Live version [here](https://viblog-quote-api.herokuapp.com/quotes)**.
+You can find the article for this API [here](https://viblog.hashnode.dev/build-a-quotes-generator-api-with-nodejsexpress-and-harperdb)
+
+**Live version [Quote API](https://viblog-quote-api.herokuapp.com/quotes)**.
 ## How to use.
 Clone the repo
 
